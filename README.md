@@ -8,4 +8,5 @@
 - MAXWELL
 - ERIC
 - NICOLE
+- NORMAN
 
